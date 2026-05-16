@@ -2,7 +2,7 @@
 
 Recruit Crew is a React and TypeScript recruitment platform that supports candidate, organization, and admin workflows in a single frontend application. It integrates with an AI backend for interview question generation and answer evaluation.
 
-![Recruit Crew Dashboard](./screenshots/dashboard.png)
+<img width="2930" height="1658" alt="image" src="https://github.com/user-attachments/assets/eae38aad-9b27-4045-82bf-28e42df0d381" />
 
 **Live demo:** https://recruit-crew.vercel.app
 
